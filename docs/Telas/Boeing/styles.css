@@ -1,0 +1,155 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Raleway", sans-serif;
+}
+
+.container {
+    height: 100vh;
+    background: #EEAECA;
+    background: radial-gradient(circle, rgba(238, 174, 202, 1) 0%, rgba(148, 187, 233, 1) 100%);
+    display: flex;
+    flex-direction: column;
+}
+
+.image {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.bottom {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    background: #f2f2f2;
+    border-radius: 30px 30px 0 0;
+    
+}
+
+.box-conta1 {
+    background-color: #94BBE9;
+    padding: 15px;
+    border-radius: 8px;
+    margin-bottom: 20px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    text-decoration: none;
+    color: black;
+    width: 80%;
+    text-align: center;
+    font-weight: 500;
+}
+
+.box-conta2 {
+    border: 1px solid #94BBE9;
+    padding: 15px 40px;
+    border-radius: 8px;
+    margin-bottom: 20px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    text-decoration: none;
+    color: black;
+    width: 80%;
+    text-align: center;
+    font-weight: 500;
+    margin-bottom: 45px;
+}
+
+.box-icons {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10px;
+}
+
+.icon {
+    width: 40px;
+    height: 40px;
+    border: 1px solid #34343427;
+    padding: 5px;
+    border-radius: 50%;
+}
+
+.box-header {
+    width: 63%;
+    padding: 5% 0;
+    margin: 0 5% 5%;
+    display: flex;
+    justify-content: space-between;
+    font-size: 14px;
+    font-weight: 600;
+}
+
+.box-header a {
+    color: #94BBE9;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.box-main {
+    margin: 5%;
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+}
+
+.box-main span {
+    font-size: 14px;
+    color: #000000b7;
+}
+
+.box-main input {
+    height: 40px;
+    border-radius: 8px;
+    border: 1px solid;
+    color: #0000006a;
+    padding: 2%;
+}
+
+.box-main a {
+    font-size: 14px;
+    color: #94BBE9;
+    font-weight: 500;
+    margin-top: 10px;
+}
+
+.button {
+    margin: auto auto 10%;
+    width: 80%;
+
+}
+
+.button a {
+    background-color: #94BBE9;
+    padding: 15px;
+    border-radius: 8px;
+    color: black;
+    text-decoration: none;
+    display: block;
+    text-align: center;
+    font-weight: 500;
+    transition: background-color 0.3s ease;
+}
+
+.box-confirmacao {
+    display: flex;
+    justify-content: space-between;
+    gap: 8px;
+}
+
+.box-confirmacao input {
+    width: 50px;
+    height: 50px;
+    text-align: center;
+    font-size: 18px;
+}
+
+.box-input {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    margin-top: 3%;
+}
