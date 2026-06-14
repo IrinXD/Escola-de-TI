@@ -1,0 +1,43 @@
+Integração Back-end e Front-end
+Sun, Jun 14, 2026
+
+Summary:
+
+Revisão técnica e divisão de responsabilidades para apresentação do projeto.
+• Upload de imagens funcionando até 10 MB.
+• Aplicação funcionando localmente e no Render.
+• Decidido manter apenas um tutor por enquanto.
+• Pedro: diagrama de classes e back-end Java/Mongo.
+• Apresentação: tentativa amanhã; entrega de IA na terça.
+
+
+Action Items:
+
+* Gabriel: Preparar e enviar ao chat um roteiro/guia para a apresentação com os pontos de integração e alterações no front-end que permitiram comunicação com o back-end
+* Pedro Boeing: Ajustar o repositório para definir a branch main ou adicionar um README inicial e garantir que a main esteja configurada corretamente
+* Thiago Nunes: Estudar o código front-end e preparar a explicação do módulo front-end e do diagrama de sequência
+* Gabriel: Revisar o módulo de relacionamento/DER e confirmar como será explicado o uso não-relacional do Mongo nos exemplos apresentados
+* Pedro Boeing: Estudar o código Java do back-end e preparar a explicação do diagrama de classes e da integração com o MongoDB
+* Thiago Nunes: Revisar e estar pronto para apresentar o código front-end e o layout criado no React Native conforme combinado
+
+
+Key Discussion Points:
+
+Implementação e Integração
+Gabriel relatou dificuldades na implementação e integração do back-end com o front-end, citando necessidade de soluções alternativas e problemas com Dockerfile para deploy no Render. A equipe discutiu a criação de uma API em Python e ajustes para que o Mongo gere a URL e armazene a imagem completa em vez de apenas referenciar a URL.
+
+Demonstração de Funcionalidades
+Gabriel demonstrou cadastros, upload de imagens (até 10 MB, com possibilidade de GIFs) e funcionalidades de excluir e iniciar passeio integradas ao back-end, confirmando que os testes locais funcionaram. Também foi apontado um problema na edição que requer duas etapas e a decisão de manter apenas um tutor por enquanto, com comentários sobre UX e limitações não resolvidas.
+
+Preparação da Apresentação e Distribuição de Tarefas
+A equipe alinhou o roteiro da apresentação e dividiu responsabilidades: Pedro explicará o diagrama de classes e o back-end em Java/Mongo, Thiago apresentará o front-end e diagramas de sequência, e Gabriel explicará o diagrama de sequência, testes HTTP e a integração com o Render. Foi decidido mostrar principalmente as partes implementadas e preparar respostas técnicas para perguntas do professor, além de enviar materiais ao chat para ajudar no roteiro.
+
+Branches, Cronograma e Exercícios
+Gabriel explicou o estado das branches e que não houve um primeiro push/README para definir a main, mas avaliou que não será problema imediato; Thiago e Gabriel criaram branches conforme trabalharam juntos. A equipe confirmou a data provisória da apresentação para amanhã e mencionou exercícios adicionais de IA e estudo para a prova, com instruções para quem precisar de nota complementar em Mobile.
+
+Encerramento e Observações Finais
+A reunião encerrou com confirmação de que a equipe mostrou as evidências do funcionamento e combinou ações de preparação para a apresentação, e Gabriel finalizou preparando o material de apoio a ser compartilhado no chat. Não surgiram novos pontos pendentes além dos já atribuídos e da revisão final do roteiro antes da apresentação.
+
+
+
+* No notes
