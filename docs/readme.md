@@ -1,13 +1,13 @@
 # Folder para arquivos da escola de TI
 
-Membros: 
-● Gabriel Andrade Garcia
-● Thiago Nunes
-● Pedro Boeing
+# Membros: 
+- Gabriel Andrade Garcia
+- Thiago Nunes
+- Pedro Boeing
 
-Links repositórios:
-Backend: https://github.com/IrinXD/escola-ti-backend
-Frontend: https://github.com/IrinXD/escola-ti-frontend
+# Links repositórios:
+- Backend: https://github.com/IrinXD/escola-ti-backend
+- Frontend: https://github.com/IrinXD/escola-ti-frontend
 
 # 🐾 Aplicativo de Rede Social para Pets e Passeios
 
