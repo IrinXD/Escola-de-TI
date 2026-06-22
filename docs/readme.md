@@ -1,9 +1,9 @@
 # Folder para arquivos da escola de TI
 
 # Membros: 
-- Gabriel Andrade Garcia
-- Thiago Nunes
-- Pedro Boeing
+- Gabriel Andrade Garcia RA: 23271855-2
+- Thiago nunes de souza RA: 23000383-2
+- Pedro Antônio Paiva Boeing RA: 26010619-2
 
 # Links repositórios:
 - Backend: https://github.com/IrinXD/escola-ti-backend
